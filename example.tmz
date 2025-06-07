@@ -1,0 +1,12 @@
+# Tamizhi language example source code
+# This is a simple example for testing the Tamizhi compiler and VM
+
+முதலீடு "stdlib"
+
+மாறி a = 5
+மாறி b = 10
+மாறி கூட்டல் = a + b
+
+அச்சிடு("கூட்டல் பெறுமானம்: ", கூட்டல்)
+
+# முடிவு
