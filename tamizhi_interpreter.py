@@ -2,7 +2,7 @@
 
 from typing import List
 from tamizhi_ast import *
-from tamizhi_runtime.py import Environment, create_global_environment
+from tamizhi_runtime import Environment, create_global_environment
 from tamizhi_types import TamizhiValue, make_null, make_boolean, make_number, make_string
 
 class Interpreter:
